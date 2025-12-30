@@ -52,7 +52,7 @@ footer .top {
 
 /* link sections */
 .link-boxes {
-    display: flex;
+    display:flex;
     justify-content: space-between;
     padding-bottom: 30px;
 }
@@ -111,7 +111,7 @@ footer .top {
 /* responsive */
 @media (max-width: 900px) {
     .link-boxes {
-        flex-wrap: wrap;
+        display: flex;
     }
 
     .link-boxes .box {
