@@ -32,7 +32,7 @@ footer .top {
 
 /* social icons */
 .media-icons a {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     width: 34px;
